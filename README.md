@@ -1,2 +1,5 @@
-# Example Reposytory
-This is a sample repo....
+# Example Repository
+
+
+
+                         This is a sample repo....
